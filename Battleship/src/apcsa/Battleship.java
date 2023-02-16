@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Battleship {
 	public static void main(String[] args) {
 		// Set up board and print welcome
-		
+		//Hello World
 		Nuts RoastedMacadamia = new RoastedNuts(5);
 		Board b = new Board();
 		Scanner scan = new Scanner(System.in);
